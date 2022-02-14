@@ -1,6 +1,9 @@
 ## Olá, eu sou o Lucas Txai
 
-- 🌱 Atualmente estou aprendendo HTML, CSS, Javascript & React
+### Estudante Full-Stack
+
+- 📝 Conhecimento em HTML, CSS e Javascript
+- 🌱 Atualmente estou aprendendo React
 - 😄 Pronomes: ele/dele (he/him)
 
 
