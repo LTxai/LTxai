@@ -2,8 +2,8 @@
 
 ### Estudante Full-Stack
 
-- 📝 Conhecimento em HTML, CSS e Javascript
-- 🌱 Atualmente estou aprendendo React
+- 📝 Conhecimento em HTML, CSS, Javascript e React
+- 🌱 Atualmente estou aprendendo Typescript
 - 😄 Pronomes: ele/dele (he/him)
 
 
