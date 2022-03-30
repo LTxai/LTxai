@@ -1,6 +1,6 @@
 ## Olá, eu sou o Lucas Txai
 
-### Estudante Full-Stack
+### Desenvolvedor Front End
 
 - 📝 Conhecimento em HTML, CSS, Javascript e React
 - 🌱 Atualmente estou aprendendo Typescript
