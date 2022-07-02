@@ -2,8 +2,8 @@
 
 ### Desenvolvedor Front End 💻
 
-- 📝 **Conhecimento em:** Git, HTML, CSS, Javascript e React // **Languages:** Git, HTML, CSS, JavaScript and Recat
-- 🌱 **Atualmente estou aprendendo** Typescript // **Currently learning** TypeScript
+- 📝 **Conhecimento em:** Git, HTML, CSS, Javascript, React e Typescript// **Languages:** Git, HTML, CSS, JavaScript, React and Typescript
+- 🌱 **Atualmente estou aprendendo** PHP e Ruby // **Currently learning** PHP e Ruby
 - 😄 **Pronomes:** ele/dele // **Pronouns:** he/him 
 
 
