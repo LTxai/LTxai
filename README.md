@@ -2,8 +2,8 @@
 
 ### Desenvolvedor Front End 💻
 
-- 📝 **Conhecimento em:** Git, HTML, CSS, Javascript, React e Typescript// **Languages:** Git, HTML, CSS, JavaScript, React and Typescript
-- 🌱 **Atualmente estou aprendendo** PHP e Ruby // **Currently learning** PHP e Ruby
+- 📝 **Conhecimento em:** Javascript, React e Typescript// **Languages:** JavaScript and Typescript// **Frameworks:** React
+- 🌱 **Atualmente estou aprendendo** PHP, Angular e Ionic // **Currently learning** PHP, Angular and Ionic
 - 😄 **Pronomes:** ele/dele // **Pronouns:** he/him 
 
 
@@ -17,13 +17,10 @@
   
   
 <div style="display: inline_block" align="center"><br>
-  <h2>Linguagens:</h2>
-  <img align="center" alt="Txai-Git" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
+  <h2>Linguagens / Frameworks:</h2>
   <img align="center" alt="Txai-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Txai-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="Txai-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Txai-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Txai-Typescript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg">
+  <img align="center" alt="Txai-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
 </div>
   
   
