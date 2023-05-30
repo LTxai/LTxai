@@ -1,4 +1,4 @@
-## 👋 Olá, eu sou o Lucas Txai 🤙🏼
+## Olá, eu sou o Lucas Txai 🤙🏼
 
 ### Desenvolvedor Front End 💻
 
