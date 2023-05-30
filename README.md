@@ -2,7 +2,7 @@
 
 ### Desenvolvedor Front End 💻
 
-- 📝 **Conhecimento em:** Javascript, React e Typescript// **Languages:** JavaScript and Typescript// **Frameworks:** React
+- 📝 **Conhecimento em:** Javascript, Typescript, Angular e React // **Languages:** JavaScript and Typescript// **Frameworks:** Angular and React
 - 🌱 **Atualmente estou aprendendo** PHP, Angular e Ionic // **Currently learning** PHP, Angular and Ionic
 - 😄 **Pronomes:** ele/dele // **Pronouns:** he/him 
 
@@ -20,6 +20,7 @@
   <h2>Linguagens / Frameworks:</h2>
   <img align="center" alt="Txai-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Txai-Typescript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg">
+  <img align="center" alt="Txai-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/angularjs/angularjs-original.svg">
   <img align="center" alt="Txai-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
 </div>
   
