@@ -3,7 +3,7 @@
 ### Desenvolvedor Front End 💻
 
 - 📝 **Conhecimento em:** Javascript, Typescript, Angular e React // **Languages:** JavaScript and Typescript// **Frameworks:** Angular and React
-- 🌱 **Atualmente estou aprendendo** PHP, Angular e Ionic // **Currently learning** PHP, Angular and Ionic
+- 🌱 **Atualmente estou aprendendo** Angular e Ionic // **Currently learning** Angular and Ionic
 - 😄 **Pronomes:** ele/dele // **Pronouns:** he/him 
 
 
