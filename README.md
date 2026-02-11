@@ -6,14 +6,6 @@
 - 🌱 **Atualmente estou aprendendo** Angular e Ionic // **Currently learning** Angular and Ionic
 - 😄 **Pronomes:** ele/dele // **Pronouns:** he/him 
 
-
-<div align="center">
-  <a href="https://github.com/LTxai">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=LTxai&show_icons=true&theme=nightowl&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LTxai&layout=compact&langs_count=7&theme=nightowl"/>
-</div>
-
-  
   
   
 <div style="display: inline_block" align="center"><br>
